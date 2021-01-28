@@ -125,6 +125,7 @@ hero
   justify-content: center;
   align-items: center;
   color: var(--mainWhite);
+  padding: 1.5rem;
 }
 
 .hero-info p {
